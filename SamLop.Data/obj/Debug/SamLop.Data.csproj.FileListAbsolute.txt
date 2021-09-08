@@ -1,0 +1,16 @@
+E:\doan\HUONG\SamLop\SamLop.Data\bin\Debug\SamLop.Data.dll
+E:\doan\HUONG\SamLop\SamLop.Data\bin\Debug\SamLop.Data.pdb
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.dll
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.pdb
+E:\doan\HUONG\SamLop\SamLop.Data\obj\Debug\SamLop.Data.csprojResolveAssemblyReference.cache
+D:\SamLop\SamLop.Data\bin\Debug\SamLop.Data.dll
+D:\SamLop\SamLop.Data\bin\Debug\SamLop.Data.pdb
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.dll
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.pdb
+D:\SamLop\SamLop.Data\obj\Debug\SamLop.Data.csprojResolveAssemblyReference.cache
+F:\Studio\Windows Form\Source code\Application\Visual C#\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\SamLop.Data\bin\Debug\SamLop.Data.dll
+F:\Studio\Windows Form\Source code\Application\Visual C#\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\SamLop.Data\bin\Debug\SamLop.Data.pdb
+F:\Studio\Windows Form\Source code\Application\Visual C#\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\SamLop.Data\obj\Debug\SamLop.Data.csprojResolveAssemblyReference.cache
+F:\Studio\Windows Form\Source code\Application\Visual C#\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\SamLop.Data\obj\Debug\SamLop.Data.csproj.CoreCompileInputs.cache
+F:\Studio\Windows Form\Source code\Application\Visual C#\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\SamLop.Data\obj\Debug\SamLop.Data.dll
+F:\Studio\Windows Form\Source code\Application\Visual C#\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\[sharecode.vn]MaNguonCsharpQlyGaraotophucanh\Gara\SamLop.Data\obj\Debug\SamLop.Data.pdb
